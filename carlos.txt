@@ -1,1 +1,6 @@
-soy el mejor de todos, y nadie me gobierna
+soy el mejor de todos, y nadie me gobiern
+
+info 1
+info 2
+info 3
+info 4a
